@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mouha89
-- 👀 I’m interested in python
-- 🌱 I’m currently learning to create script with python to raspberry
+- 👀 I’m interested in software developpement
+- 🌱 I’m currently learning to create scripts with python to raspberry
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
